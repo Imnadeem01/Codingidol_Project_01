@@ -15,7 +15,7 @@ html>
     Hi,I'm Nadeem, Persuing Diploma in Computer Science & Engineering from Maulana Azad National Urdu University Hyderabad.I'm interested in learning Web Development. 
      
   </p><br>
-  <img src="Nadeem.jpg" /><br>My pic<br>
+  <img src="/storage/emulated/0/Download/profile-pic (6).png"><br>My pic<br>
 <a href="https://www.google.com/">Google</a>
     
 </body>
